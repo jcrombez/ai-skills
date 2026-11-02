@@ -1,0 +1,17 @@
+{
+  "name": "ai-skills",
+  "description": "A library of skills for Claude Code",
+  "owner": {
+    "name": "Jérémy Crombez",
+    "url": "https://github.com/jcrombez"
+  },
+  "plugins": [
+    {
+      "name": "blender-modular-kit",
+      "source": "./plugins/blender-modular-kit",
+      "description": "Design a modular low/mid poly 3D kit in Blender (grid, conventions, corners, roofs) and hunt down z-fighting, with a Python helper library and a z-fight detector.",
+      "category": "3d",
+      "keywords": ["blender", "3d", "low-poly", "modular-kit", "z-fighting"]
+    }
+  ]
+}

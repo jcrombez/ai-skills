@@ -1,0 +1,11 @@
+{
+  "name": "blender-modular-kit",
+  "version": "1.0.0",
+  "description": "Rules and scripts for designing a modular low/mid poly 3D kit in Blender and hunting down z-fighting.",
+  "author": {
+    "name": "Jérémy Crombez",
+    "url": "https://github.com/jcrombez"
+  },
+  "repository": "https://github.com/jcrombez/ai-skills",
+  "keywords": ["blender", "3d", "low-poly", "modular-kit", "z-fighting"]
+}
